@@ -1,1 +1,2 @@
-
+#Report
+Our Automatic rain operated wiper system works well with rain sensor. As future extraction work the same  can be  carried out  by different types of sensor. As far as  accuracy of the system is concerned it is more accurate than conductive, optical sensor etc. But the reason for not using those named sensors is because of their higher cost.  The sensor unit mounts discretely to the interior of the windshield while providing increased detection area, improved accuracy, and a lower cost than the pre-existing optical unit. 
