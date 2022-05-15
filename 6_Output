@@ -1,1 +1,5 @@
-
+Thus, we have implemented a model that senses rains andautomatically switches on the wiper and adjusts its speedaccording to the intensity of the rain.
+As the intensity of therain increases, the speed of the wiper increases to a certainlevel.Themicrocontroller checks for the digital pin and analog pininputs 
+of the rain sensor. When there is slight water onthe sensor, the digital pin is set to logic ’0’. This is usedto detect presence of rain water. To check the
+intensity ofrain, we monitor the analog pin output of the rain sensor,whose threshold can be adjusted manually through an at-tached Potentiometer to indicate 
+how much water should beconsidered as high rain
